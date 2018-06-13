@@ -36,8 +36,3 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
-
-h1 {
-  font-size: 5.4rem;
-  color: #fff;
-}
